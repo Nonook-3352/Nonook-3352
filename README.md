@@ -10,3 +10,8 @@ I code Stuff (mostly Backend)
 - Tailwind CSS
 - HTML 5
 - GraphQL
+
+# My game dev stack :
+- Lua w/ Love2D
+- LibreSprite for pixel art
+- That it !
