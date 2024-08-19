@@ -6,7 +6,7 @@ I code Stuff (mostly Backend)
 
 # My web tech stack :
 - Flask (python)
-- ~~Jquery w/ Fetch API~~ HTMX
+- ~~Jquery w/ Fetch API~~ HTMx
 - Tailwind CSS
 - HTML 5
 - GraphQL
