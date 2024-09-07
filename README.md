@@ -12,6 +12,6 @@ I code Stuff (mostly Backend)
 - GraphQL
 
 # My game dev stack :
-- Lua w/ Love2D
+- Lua w/ Potato Engine
 - LibreSprite for pixel art
 - That it !
