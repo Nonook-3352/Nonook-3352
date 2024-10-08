@@ -4,12 +4,10 @@
 I code Stuff (mostly Backend)
 
 
-# My web tech stack :
+# My Backend tech stack :
 - Flask (python)
-- ~~Jquery w/ Fetch API~~ HTMx
-- Tailwind CSS
-- HTML 5
-- GraphQL
+- MariaDB
+- HTMx
 
 # My game dev stack :
 - Lua w/ Potato Engine
