@@ -1,3 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonook-3352&layout=donut&v=2)]
+# Hi !
 
-I sometime code stuff
+I code in : ```Golang, Python, C, HTML, CSS, Lua```  
+Tools and Libs i use : ```CMake, Raylib, net/http, GNU Make, Kate, GCC, Löve2D```
+
+I'm currently learning : ```C and Raylib```
+
+
+
